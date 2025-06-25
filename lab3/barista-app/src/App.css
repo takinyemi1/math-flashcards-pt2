@@ -1,0 +1,150 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 7em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #b4864d);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #b4864d);
+}
+
+.title-container {
+  display: flex;
+  text-align: left;
+  text-align-last: left;
+  font-size: 20px;
+}
+
+.title-text {
+  text-align: left;
+  font-weight: 600;
+}
+
+.order-title {
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.mini-header {
+  font-weight: 650;
+  font-size: 30px;
+  background-color: #b4864d;
+  color: white;
+  border-radius: 8px;
+  /* padding: 0.5rem 1rem; */
+  align-items: center;
+  width: 100%;
+}
+
+.complete-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 1rem;
+}
+
+.newdrink {
+  background-color: #70522c;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.container, .mini-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.container {
+  align-items: flex-start;
+  margin: auto;
+  position: relative;
+}
+
+.mini-container {
+  flex-direction: column;
+  margin: 50px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 2em #c7c2bc;
+  padding: 16px 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+#wrong {
+  background-color: #f8d7da;
+  color: #ad0516;
+}
+
+#correct {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+li {
+  list-style: none;
+}
+
+.success-message {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.answer-space {
+  background-color: #b4864d;
+  border-radius: 8px;
+  padding: 20px 7px;
+  font-weight: 600;
+  color: white;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.radio-btn {
+  display: block;
+  position: relative;
+  /* padding-left: 35px; */
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-weight: 600;
+  background-color: #e6ec8f;
+  border-radius: 8px;
+  padding: 16px 20px;
+}
+
+.submit {
+  background-color: #70522c;
+}

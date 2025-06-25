@@ -1,0 +1,169 @@
+{
+    "drinks": [
+        {
+            "name": "espresso",
+            "ingredients": {
+                "temp": "hot",
+                "espresso": "1 shot",
+                "steamed-milk": "none",
+                "foamed-milk": "none",
+                "hot-water": "none",
+                "warm-milk": "none",
+                "foam": "none",
+                "whipped-cream": "none",
+                "ice-cream": "none",
+                "size": "2 oz"
+            }
+        },
+        {
+            "name": "double espresso",
+            "ingredients": {
+                "temp": "hot",
+                "espresso": "2 shots",
+                "steamed-milk": "none",
+                "foamed-milk": "none",
+                "hot-water": "none",
+                "warm-milk": "none",
+                "foam": "none",
+                "whipped-cream": "none",
+                "ice-cream": "none",
+                "size": "3 oz"
+            }
+        }, 
+        {
+            "name": "red eye",
+            "ingredients": {
+                "temp": "hot",
+                "espresso": "1 shot",
+                "steamed-milk": "none",
+                "foamed-milk": "none",
+                "hot-water": "none",
+                "warm-milk": "none",
+                "foam": "none",
+                "whipped-cream": "none",
+                "ice-cream": "none",
+                "size": "8 oz"
+            }
+        },
+        {
+            "name": "black eye",
+            "ingredients": {
+                "temp": "hot",
+                "espresso": "2 shots",
+                "steamed-milk": "none",
+                "foamed-milk": "none",
+                "hot-water": "none",
+                "warm-milk": "none",
+                "foam": "none",
+                "whipped-cream": "none",
+                "ice-cream": "none",
+                "size": "8 oz"
+            }
+        },
+        {
+            "name": "americano",
+            "ingredients": {
+                "temp": "hot",
+                "espresso": "1 shot",
+                "steamed-milk": "none",
+                "foamed-milk": "none",
+                "hot-water": "3 oz",
+                "warm-milk": "none",
+                "foam": "none",
+                "whipped-cream": "none",
+                "ice-cream": "none",
+                "size": "5 oz"
+            }
+        },
+        {
+            "name": "long black",
+            "ingredients": {
+                "temp": "lukewarm",
+                "espresso": "2 shots",
+                "steamed-milk": "none",
+                "foamed-milk": "none",
+                "hot-water": "3 oz",
+                "warm-milk": "none",
+                "foam": "none",
+                "whipped-cream": "none",
+                "ice-cream": "none",
+                "size": "6 oz"
+            }
+        },
+        {
+            "name": "macchiato",
+            "ingredients": {
+                "temp": "hot",
+                "espresso": "1 shot",
+                "steamed-milk": "2 oz",
+                "foamed-milk": "none",
+                "hot-water": "none",
+                "warm-milk": "none",
+                "foam": "none",
+                "whipped-cream": "none",
+                "ice-cream": "none",
+                "size": "3 oz"
+            }
+        }, 
+        {
+            "name": "long macchiato",
+            "ingredients": {
+                "temp": "hot",
+                "espresso": "2 shots",
+                "steamed-milk": "3 oz",
+                "foamed-milk": "none",
+                "hot-water": "none",
+                "warm-milk": "none",
+                "foam": "none",
+                "whipped-cream": "none",
+                "ice-cream": "none",
+                "size": "5 oz"
+            }
+        },
+        {
+            "name": "cortado",
+            "ingredients": {
+                "temp": "lukewarm",
+                "espresso": "1 shot",
+                "steamed-milk": "none",
+                "foamed-milk": "none",
+                "hot-water": "none",
+                "warm-milk": "1 oz",
+                "foam": "1 oz",
+                "whipped-cream": "none",
+                "ice-cream": "none",
+                "size": "5 oz"
+            }
+        },
+        {
+            "name": "breve",
+            "ingredients": {
+                "temp": "hot",
+                "espresso": "1 shot",
+                "steamed-milk": "3 oz",
+                "foamed-milk": "none",
+                "hot-water": "none",
+                "warm-milk": "none",
+                "foam": "1 oz",
+                "whipped-cream": "none",
+                "ice-cream": "none",
+                "size": "2 oz"
+            }
+        },
+        {
+            "name": "cappuccino",
+            "ingredients": {
+                "temp": "hot",
+                "espresso": "2 shots",
+                "steamed-milk": "2 oz",
+                "foamed-milk": "2 oz",
+                "hot-water": "none",
+                "warm-milk": "none",
+                "foam": "none",
+                "whipped-cream": "none",
+                "ice-cream": "none",
+                "size": "8 oz"
+            }
+        }
+    ]
+}
